@@ -1,6 +1,6 @@
- #📰 Unhinged Gazette
-![alt text](image.png)
 **Unhinged Gazette** is an AI-powered news translator that takes real-world news headlines and rewrites them into Gen Z language, making current events more engaging, relatable, and easier to understand for younger audiences.
+
+![Unhinged Gazette Screenshot](images/news.png)
 
 Instead of reading:
 
